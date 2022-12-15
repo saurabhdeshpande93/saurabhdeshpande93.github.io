@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /index
+    url:               /index/
   - title:             Publications
     url:               /publications/
   - title:             Songwriting
