@@ -29,7 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline: |
-          Scientific ML Researcher
+          Computational Scientist. Scientific ML Researcher. And more.
 
 # A list of keywords for your blog
 keywords:              []
@@ -50,17 +50,18 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /index/
+    url:               /about/
   - title:             Publications
     url:               /publications/
   - title:             Songwriting
     url:               /songwriting/
   - title:             Photography
     url:               /photography/
-  - title:             CV
-    url:               /assets/work/CV_Saurabh_Deshpande.pdf
   - title:             Blogs
     url:               /blogs/
+  - title:             CV
+    url:               /assets/work/CV_Saurabh_Deshpande.pdf
+
 
 
 # Add links to the footer.

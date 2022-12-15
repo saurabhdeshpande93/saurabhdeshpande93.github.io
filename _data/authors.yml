@@ -2,44 +2,49 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
+  name:              Saurabh Deshpande
   email:             <mail@domain.tld>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+  about:   |
+      I am a final year Ph.D. student at the [Team Legato](https://legato-team.eu) of the University of Luxembourg,
+      I am being supervised by [Prof. Stéphane Bordas](https://scholar.google.com/citations?user=QKZBZ48AAAAJ&hl=en).
+      My thesis is a part of  Marie Skłodawaska Curie Actions funded European training network, [ITN Rainbow](https://rainbow.ku.dk).
+      Prior to that, I spent two wonderful years as a Scientist/Engineer at the Indian Space Research Organisation ([ISRO](https://www.isro.gov.in)).
+      I graduated with an integrated bachelors and masters degree in mechanical engineering (specialisation in product design)
+      from [IIT Madras](https://www.iitm.ac.in) in 2017.
+
+
+
 
   # This photo will be used in the about section
-  picture:
-    path:            https://via.placeholder.com/128x128
-    # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            https://via.placeholder.com/128x128
-      2x:            https://via.placeholder.com/256x256
+  # picture:
+  #   path:            /assets/img/personal/profile1.jpg
+  #   # srcset is optional, but can be used to provide higher res versions for retina displays
+  #   srcset:
+  #     1x:            https://via.placeholder.com/128x128
+  #     2x:            https://via.placeholder.com/256x256
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    twitter:         Saurabh1715
+    github:          saurabhdeshpande93
+    email:           saurabhdeshpande93@gmail.com
+    # googlescholar:   AxC5DlwAAAAJ
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
-    # youtube:         <string_string_string>
+    # youtube:         UCjNm9ADmm-9QvlJLjTBSUfw
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+    instagram:       saurabh.deshpande.1238
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -57,7 +62,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        saurabh-deshpande-iitmadras
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
