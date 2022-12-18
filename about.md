@@ -12,7 +12,7 @@ hide_description: true
 I am a fourth-year Ph.D. student at the [Team Legato](https://legato-team.eu) of the University of Luxembourg,
 I am being supervised by [Prof. Stéphane Bordas](https://scholar.google.com/citations?user=QKZBZ48AAAAJ&hl=en).
 My thesis is a part of  Marie Skłodawaska Curie Actions funded European training network, [ITN Rainbow](https://rainbow.ku.dk).
-I am deeply interested in AI and its applications in solving forward and inverse problems pertaining to scientific simulations. As a part of my Ph.D., I am mainly developing Bayesian and geometric deep learning frameworks to come up with fast, accurate and trustworthy computing models. (refer [<span style="color:blue">Publications</span>](/publications)). 
+I am deeply interested in AI and its applications in solving forward and inverse problems pertaining to scientific simulations. As a part of my Ph.D., I am mainly developing Bayesian and geometric deep learning frameworks to come up with fast, accurate and trustworthy computing models, for their applications in computational mechanics. (refer [<span style="color:blue">Publications</span>](/publications)).
  <!-- accelerate computationally costly conventional numerical methods -->
 
 Before this, I spent two wonderful years as a Scientist/Engineer at the Indian Space Research Organisation ([ISRO](https://www.isro.gov.in)).
@@ -31,8 +31,8 @@ Selected achievements:
 
 * [Marie Skłodowska Curie Actions fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks) for pursuing the doctorate degree <span style="color:gray">(2019-22)</span>
 * State Bank of India meritorious fellowship covering 95% of tuition fee at the IIT Madras <span style="color:gray">(2012-17)</span>
-* [KVPY fellowship](http://www.kvpy.iisc.ernet.in/main/about.htm) from the Government of India offering full financial support to pursue a bachelor in pure sciences <span style="color:gray">(2012)</span>
-* [INSPIRE fellowship](https://online-inspire.gov.in) by the Government of India offering full financial support to pursue a bachelor in pure sciences <span style="color:gray">(2012)</span>
+* [KVPY fellowship](http://www.kvpy.iisc.ernet.in/main/about.htm) from the Government of India, offering full financial support to pursue a bachelor in pure sciences <span style="color:gray">(2012)</span>
+* [INSPIRE fellowship](https://online-inspire.gov.in) from the Government of India, offering full financial support to pursue a bachelor in pure sciences <span style="color:gray">(2012)</span>
 * Cleared Regional Maths Olympiad by securing region ranks 6 <span style="color:gray">(2009)</span> & 26 <span style="color:gray">(2011)</span> respectively.
 * Travel awards from
    - [IWR Heidelberg](https://typo.iwr.uni-heidelberg.de/home) to attend computational mathematics summer school in Thailand <span style="color:gray">(2017)</span>
