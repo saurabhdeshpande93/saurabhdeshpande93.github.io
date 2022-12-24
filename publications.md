@@ -27,7 +27,7 @@ You can alternatively find my publications on:
 [<span style="color:blue">[PDF]</span>](https://arxiv.org/abs/2211.00713.pdf) [<span style="color:blue">[DOI]</span>](https://arxiv.org/abs/2211.00713)
 
 
-* 'Probabilistic Deep Learning for Real-Time Large Deformation Simulations'. <span style="color:gray">Computer Methods in Applied Mechanics and Engineering (CMAME) 398, 11530</span>. \
+* 'Probabilistic Deep Learning for Real-Time Large Deformation Simulations'. <span style="color:gray">Computer Methods in Applied Mechanics and Engineering (CMAME) 2022</span>. \
 **Saurabh Deshpande**, Jakub Lengiewicz and Stéphane P.A. Bordas.\
 [<span style="color:blue">[PDF]</span>](https://reader.elsevier.com/reader/sd/pii/S004578252200411X?token=5118A655A3DE675644FF483F2A88CFE743796DC267EF6BD4CC2E92CEE598496BC6815C8A19901034D121E93A9D192F73&originRegion=eu-west-1&originCreation=20221214195731) [<span style="color:blue">[DOI]</span>](https://www.sciencedirect.com/science/article/pii/S004578252200411X?via%3Dihub)
 
