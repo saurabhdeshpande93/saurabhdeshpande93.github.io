@@ -18,7 +18,7 @@ You can alternatively find my publications on:
 ## Journal papers
 * 'Convolution, aggregation and attention based deep neural networks for accelerating simulations in mechanics'. <span style="color:gray">arXiv 2022</span>. \
 **Saurabh Deshpande**, Raúl I. Sosa, Stéphane P.A. Bordas and Jakub Lengiewicz. \
-[<span style="color:blue">[PDF]</span>](https://arxiv.org/pdf/2212.01386.pdf) [<span style="color:blue">[DOI]</span>](https://arxiv.org/abs/2212.01386)
+[<span style="color:blue">[PDF]</span>](https://arxiv.org/pdf/2212.01386.pdf) [<span style="color:blue">[DOI]</span>](https://arxiv.org/abs/2212.01386) [<span style="color:blue">[Code]</span>](https://github.com/saurabhdeshpande93/convolution-aggregation-attention)
 
 
 
