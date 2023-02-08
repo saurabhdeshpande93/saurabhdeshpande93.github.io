@@ -21,7 +21,6 @@ You can alternatively find my publications on:
 [<span style="color:blue">[PDF]</span>](https://arxiv.org/pdf/2212.01386.pdf) [<span style="color:blue">[DOI]</span>](https://arxiv.org/abs/2212.01386) [<span style="color:blue">[Code]</span>](https://github.com/saurabhdeshpande93/convolution-aggregation-attention)
 
 
-
 * 'MAgNET: A Graph U-Net Architecture for Mesh-Based Simulations'. <span style="color:gray">arXiv 2022</span>. \
 **Saurabh Deshpande**, Jakub Lengiewicz and Stéphane P.A. Bordas.\
 [<span style="color:blue">[PDF]</span>](https://arxiv.org/abs/2211.00713.pdf) [<span style="color:blue">[DOI]</span>](https://arxiv.org/abs/2211.00713)
