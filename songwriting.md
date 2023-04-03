@@ -26,5 +26,10 @@ My original compositions
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1LytLnM4X9anUkw2RM2TeE?utm_source=generator" width="60%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<!-- ## Poems
-I often enjoy penning down my experiences through childish poems. I have listed some of them below: -->
+
+### Poems
+I enjoy penning down my experiences through poems [sometimes childish :)].
+
+![image-title-here](/assets/img/photography/p1.jpg){:class="img-responsive"}{:width="26%"} ![image-title-here](/assets/img/photography/p2.jpg){:class="img-responsive"}{:width="34.5%"} ![image-title-here](/assets/img/photography/p3.jpg){:class="img-responsive"}{:width="37%"}  
+
+![image-title-here](/assets/img/photography/p4.jpg){:class="img-responsive"}{:width="26%"} ![image-title-here](/assets/img/photography/p5.jpg){:class="img-responsive"}{:width="37%"} ![image-title-here](/assets/img/photography/p6.jpg){:class="img-responsive"}{:width="35%"}  
