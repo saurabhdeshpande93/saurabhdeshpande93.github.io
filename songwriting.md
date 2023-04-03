@@ -32,4 +32,4 @@ I enjoy penning down my experiences through poems [sometimes childish :)].
 
 ![image-title-here](/assets/img/photography/p1.jpg){:class="img-responsive"}{:width="26%"} ![image-title-here](/assets/img/photography/p2.jpg){:class="img-responsive"}{:width="34.5%"} ![image-title-here](/assets/img/photography/p3.jpg){:class="img-responsive"}{:width="37%"}  
 
-![image-title-here](/assets/img/photography/p4.jpg){:class="img-responsive"}{:width="26%"} ![image-title-here](/assets/img/photography/p5.jpg){:class="img-responsive"}{:width="37%"} ![image-title-here](/assets/img/photography/p6.jpg){:class="img-responsive"}{:width="35%"}  
+![image-title-here](/assets/img/photography/p4.jpg){:class="img-responsive"}{:width="26%"} ![image-title-here](/assets/img/photography/p5.jpg){:class="img-responsive"}{:width="36%"} ![image-title-here](/assets/img/photography/p6.jpg){:class="img-responsive"}{:width="35%"}  
