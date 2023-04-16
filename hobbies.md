@@ -36,7 +36,7 @@ Although my PhD has been taking most of the time, I go for weekly runs (interval
 
 My affair with music began in childhood when I started accompanying my grandfather's hobby singing sessions with playing the harmonium. My skills and confidence increased with the days but as the years went by, I found myself distracted by the demands of daily life. It wasn't until I found myself living in a foreign country, far from home and feeling isolated during covid, that I rediscovered my love for music.
 
-I experience great comfort in practicing ukulele, piano, and guitar, and of course, my attempts at singing. While I consider myself a self-trained amateur musician, I am quite happy with the progress I've made in a relatively shorter time. Recently, I am dabbling with writing my songs, visit [<span style="color:blue">Songwriting</span>](/Songwriting) page. Music has become an integral part of my life, bringing me joy and solace in times of stress and uncertainty. More than just a hobby, playing music has become a way of expressing my feelings. Here I am displaying an impromptu composition that I had created while feeling homesick.
+I experience great comfort in practicing ukulele, piano, and guitar, and of course, my attempts at singing. While I consider myself a self-trained amateur musician, I am quite happy with the progress I've made in a relatively shorter time. Recently, I am dabbling with writing my songs, visit [<span style="color:blue">Songwriting</span>](/songwriting.md) page. Music has become an integral part of my life, bringing me joy and solace in times of stress and uncertainty. More than just a hobby, playing music has become a way of expressing my feelings. Here I am displaying an impromptu composition that I had created while feeling homesick.
 
 Current favourite artists: Ed Sheeran, Prateek Kuhad, The Local Train, Adam Melchor, Anuv Jain, Frizzell D'souza.
 
@@ -59,7 +59,7 @@ Overall, my travel experiences have taught me to keep things in perspective, bec
 
 ## <a name="photography"></a>Photography
 
-Initially, it was my passion for traveling that sparked my interest in photography. Now, I often enjoy going on photography walks with friends. Although my current skills are still developing, my passion for the art is unwavering. I'm excited to continue learning and improving my skills in future. Refer to [<span style="color:blue">Photography</span>](/Photography) page for more details.
+Initially, it was my passion for traveling that sparked my interest in photography. Now, I often enjoy going on photography walks with friends. Although my current skills are still developing, my passion for the art is unwavering. I'm excited to continue learning and improving my skills in future. Refer to [<span style="color:blue">Photography</span>](/photography.md) page for more details.
 
 
 
