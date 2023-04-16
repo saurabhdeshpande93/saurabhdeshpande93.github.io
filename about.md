@@ -38,3 +38,30 @@ Selected achievements:
    - [IWR Heidelberg](https://typo.iwr.uni-heidelberg.de/home) to attend computational mathematics summer school in Thailand <span style="color:gray">(2017)</span>
    - IIT Madras to present at the First National Finite Element developers conference <span style="color:gray">(2016)</span>
    - IIT Madras for spending a semester at TUM, Germany and SNU, South Korea <span style="color:gray">(2016)</span>
+
+
+<br/><br/>
+
+## Hobbies
+
+Visit [<span style="color:blue">hobbies</span>](/hobbies) page.
+
+<!-- ### Sports
+
+<div style="float: right; margin: 5px 0px 10px 28px;">
+  <iframe align=right height='600' width='280' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/athletes/46282855/latest-rides/6e1cf9e06eacabbd06eb414efb00ebf9675e4cba'></iframe>
+</div>
+
+Sports has always held a special place in my heart, it has helped me make great friends. During formative years, cricket was my first love (as it is for most Indians). As I grew older, I discovered new games like badminton and chess, playing friendly matches with a neighbor uncle. It was in high school that I developed  a great interest in table tennis, representing my district in state-level tournaments and later also representing my alma mater, IIT Madras, at intercollege sports festivals. At IIT Madras I fell in everlasting love with Squash, I have tried my hands at waterpolo and football too. I still get goosegumops when I think back to those tense Schroeter moments (inter-hostel sports competition, which my hostel won in 2016, where I was a captain of TT and Squash team. Go Godav!).      
+
+Although my PhD has been taking most of the time, I try to go for occasional runs/hikes and swims. Feel free to connect me on Strava <a href="https://www.strava.com/athletes/46282855"><i class="fab fa-strava fa-xl" title="Strava"></i></a> or hit me up if you would like to do any activity in Luxembourg. Also, I am always up for an online chess game. You can find me on both Chess.com <a href="https://www.chess.com/member/uselessrunner"><i class="fas fa-chess-pawn fa-xl" title="Chess.com"></i></a> and Lichess [<svg viewBox="-0.892 0.5 51.573 55.285" xmlns="http://www.w3.org/2000/svg" width="20" height="20"><path d="M38.956.5c-3.53.418-6.452.902-9.286 2.984C5.534 1.786-.692 18.533.68 29.364 3.493 50.214 31.918 55.785 41.329 41.7c-7.444 7.696-19.276 8.752-28.323 3.084S-.506 27.392 4.683 17.567C9.873 7.742 18.996 4.535 29.03 6.405c2.43-1.418 5.225-3.22 7.655-3.187l-1.694 4.86 12.752 21.37c-.439 5.654-5.459 6.112-5.459 6.112-.574-1.47-1.634-2.942-4.842-6.036-3.207-3.094-17.465-10.177-15.788-16.207-2.001 6.967 10.311 14.152 14.04 17.663 3.73 3.51 5.426 6.04 5.795 6.756 0 0 9.392-2.504 7.838-8.927L37.4 7.171z" stroke="#000" stroke-linejoin="round"/></svg>](https://lichess.org/@/uselessrunner) with the username 'uselessrunner'.
+
+
+### Music
+
+My affair with music started with harmonium in childhood days. Multiple jamming sessions on old Marathi songs helped me improve my skills. Then I had a long break from music until I moved to Luxembourg. Social isloation in the foregin country brought me closer to music. I experience a great comfort in practising ukulele, piano and guitar. I can label myself as a self trained amature musician.
+
+
+### Reading
+
+This is something I want to take seriously in near future. -->
