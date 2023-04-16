@@ -40,7 +40,7 @@ Selected achievements:
    - IIT Madras for spending a semester at TUM, Germany and SNU, South Korea <span style="color:gray">(2016)</span>
 
 
-<br/><br/>
+<br/>
 
 ## Hobbies
 
