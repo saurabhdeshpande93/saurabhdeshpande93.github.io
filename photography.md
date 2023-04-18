@@ -22,7 +22,7 @@ I am listing a few selected pictures here:
 
 ![image-title-here](/assets/img/photography/10.jpg){:class="img-responsive"}{:width="30%"} ![image-title-here](/assets/img/photography/9.jpg){:class="img-responsive"}{:width="31%"} ![image-title-here](/assets/img/photography/6.jpg){:class="img-responsive"}{:width="31%"}  
 
-![image-title-here](/assets/img/photography/15.jpg){:class="img-responsive"}{:width="30.5%"} ![image-title-here](/assets/img/photography/14.jpg){:class="img-responsive"}{:width="30.5%"} ![image-title-here](/assets/img/photography/16.jpg){:class="img-responsive"}{:width="30.5%"}  
+![image-title-here](/assets/img/photography/15.jpg){:class="img-responsive"}{:width="30.5%"} ![image-title-here](/assets/img/photography/17.jpg){:class="img-responsive"}{:width="30.5%"} ![image-title-here](/assets/img/photography/16.jpg){:class="img-responsive"}{:width="30.5%"}  
 
 ![image-title-here](/assets/img/photography/8.jpg){:class="img-responsive"}{:width="46%"} ![image-title-here](/assets/img/photography/7.jpg){:class="img-responsive"}{:width="47%"}
 
