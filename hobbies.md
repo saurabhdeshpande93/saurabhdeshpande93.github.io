@@ -38,7 +38,7 @@ My affair with music began in childhood when I started accompanying my grandfath
 
 I experience great comfort in practicing ukulele, piano, and guitar, and of course, my attempts at singing. While I consider myself a self-trained amateur musician, I am quite happy with the progress I've made in a relatively shorter time. Recently, I am dabbling with writing my songs, visit [<span style="color:blue">Songwriting</span>](/songwriting.md) page. Music has become an integral part of my life, bringing me joy and solace in times of stress and uncertainty. More than just a hobby, playing music has become a way of expressing my feelings. Here I am displaying an impromptu composition that I had created while feeling homesick.
 
-Current favourite artists: Ed Sheeran, Prateek Kuhad, The Local Train, Adam Melchor, Anuv Jain, Frizzell D'souza.
+Current favourite artists: Ed Sheeran, Prateek Kuhad, John Mayer, The Local Train, Adam Melchor, Frizzell D'souza.
 
 <br/>
 
