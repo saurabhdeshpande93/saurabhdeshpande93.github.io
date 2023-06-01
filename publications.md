@@ -56,5 +56,6 @@ Arnaud Mazier, Thomas Lavigne, Jakub Lengiewicz, **Saurabh Deshpande**, Stéphan
 **Saurabh Deshpande**, Stéphane Bordas, Lars Beex, Stéphane Cotin and Anina Glumac.\
 [<span style="color:blue">[PDF]</span>](https://orbilu.uni.lu/bitstream/10993/42677/1/WCCM_Saurabh_Abstract.pdf)
 
-## Review activities
-* Applied Mathematical Modelling (Journal)
+## Review activities for journals  
+* Applied Mathematical Modelling
+* Scientific Reports - Nature
