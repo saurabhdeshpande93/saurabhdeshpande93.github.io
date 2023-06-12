@@ -21,7 +21,7 @@ You can alternatively find my publications on:
 * 'MAgNET: A Graph U-Net Architecture for Mesh-Based Simulations'. <span style="color:gray">arXiv 2023</span>. \
 **Saurabh Deshpande**, Stéphane P.A. Bordas and Jakub Lengiewicz.\
 [<span style="color:blue">[PDF]</span>](https://arxiv.org/pdf/2211.00713.pdf) [<span style="color:blue">[DOI]</span>](https://arxiv.org/abs/2211.00713)
-
+[<span style="color:blue">[Code]</span>](https://github.com/saurabhdeshpande93/MAgNET)
 
 * 'Convolution, aggregation and attention based deep neural networks for accelerating simulations in mechanics'. <span style="color:gray">Frontiers in Materials 2023</span>. \
 **Saurabh Deshpande**, Raúl I. Sosa, Stéphane P.A. Bordas and Jakub Lengiewicz. \
