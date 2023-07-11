@@ -21,7 +21,7 @@ You can alternatively find my publications on:
 * 'MAgNET: A Graph U-Net Architecture for Mesh-Based Simulations'. <span style="color:gray">arXiv 2023</span>. \
 **Saurabh Deshpande**, Stéphane P.A. Bordas and Jakub Lengiewicz.\
 [<span style="color:blue">[PDF]</span>](https://arxiv.org/pdf/2211.00713.pdf) [<span style="color:blue">[DOI]</span>](https://arxiv.org/abs/2211.00713)
-[<span style="color:blue">[Code]</span>](https://github.com/saurabhdeshpande93/MAgNET)
+[<span style="color:blue">[Code]</span>](https://github.com/saurabhdeshpande93/MAgNET)[<span style="color:blue">[Presentation]</span>](https://www.youtube.com/watch?v=T7GVEWVV56I)
 
 * 'Convolution, aggregation and attention based deep neural networks for accelerating simulations in mechanics'. <span style="color:gray">Frontiers in Materials 2023</span>. \
 **Saurabh Deshpande**, Raúl I. Sosa, Stéphane P.A. Bordas and Jakub Lengiewicz. \
@@ -35,11 +35,13 @@ You can alternatively find my publications on:
 
 
 ## Conferences
+* 'Novel Geometric Deep Learning Surrogate Framework for Non-Linear Finite Element Simulations'. <span style="color:gray"> 14th International Conference of Computational Methods (ICCM), 2023 </span>. \
+**Saurabh Deshpande**, Raúl I. Sosa, Stéphane P.A. Bordas and Jakub Lengiewicz.\
+[<span style="color:blue">[PDF]</span>](https://orbilu.uni.lu/bitstream/10993/55478/1/Abstract_ICCM.pdf)
+
 * 'Real Time Hyper-elastic Simulations with Probabilistic Deep Learning'. <span style="color:gray">15th World Congress on Computational Mechanics (WCCM), 2022</span>. \
 **Saurabh Deshpande**, Jakub Lengiewicz and Stéphane P.A. Bordas.\
 [<span style="color:blue">[PDF]</span>](https://orbilu.uni.lu/bitstream/10993/52345/3/WCCM2022_Saurabh.pdf) [<span style="color:blue">[Video]</span>](https://orbilu.uni.lu/handle/10993/52345)
-
-
 
 * 'Real-Time Large Deformation Simulations Using Probabilistic Deep Learning Framework'. <span style="color:gray">The Platform for Advanced Scientific Computing (PASC), 2022</span>. \
 **Saurabh Deshpande**, Jakub Lengiewicz and Stéphane P.A. Bordas.\
