@@ -9,7 +9,7 @@ hide_description: true
 I am a fourth-year Ph.D. student at the [Team Legato](https://legato-team.eu) of the University of Luxembourg,
 I am being supervised by [Prof. Stéphane Bordas](https://scholar.google.com/citations?user=QKZBZ48AAAAJ&hl=en).
 My thesis is a part of  Marie Skłodawaska Curie Actions funded European training network, [ITN Rainbow](https://rainbow.ku.dk).
-I am deeply interested in AI and its applications to diverse domains. As a part of my Ph.D., I am developing Bayesian and geometric deep learning frameworks to come up with scalable, accurate and trustworthy computing models, for their applications in computational mechanics (refer [<span style="color:blue">Publications</span>](/publications)). More recently I have also been working on deep-learning techniques for medical imaging applications. See [<span style="color:blue">this video</span>](https://youtu.be/sj8JUoGhit0) to get an informal introduction to my research :)
+I am deeply interested in AI and its applications to diverse domains. As a part of my Ph.D., I am developing Bayesian and geometric deep learning frameworks to come up with scalable, accurate and trustworthy computing models, for their applications in computational mechanics (refer [<span style="color:blue">Publications</span>](/publications)). More recently I have also been working on deep-learning techniques for medical imaging applications. See [<span style="color:blue">this video</span>](https://youtu.be/sj8JUoGhit0) to get an informal introduction to one aspect of my PhD research :)
 
 
 Before this, I spent two wonderful years as a Scientist/Engineer 'SC' at the Indian Space Research Organisation ([ISRO](https://www.isro.gov.in)).
