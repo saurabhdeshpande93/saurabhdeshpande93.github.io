@@ -6,15 +6,21 @@ hide_description: true
 
 # About
 
+I've recently started a postdoctoral researcher role with the Legato Team at the University of Luxembourg following the completion of my PhD. Collaborating closely with [Prof. Stéphane Bordas](https://scholar.google.com/citations?user=QKZBZ48AAAAJ&hl=en), my research focuses on development of novel AI techniques and their profound implications across scientific domains. More recently, I've delved into deep-learning techniques for medical imaging applications.
+
+My doctoral thesis, 'Data Driven Surrogate Frameworks for Computational Mechanics: Bayesian and Geometric Deep Learning Approaches', was defended under Stéphane's guidance in September 23. This research, supported by the prestigious Marie Skłodawaska Curie Actions fellowship, was an integral part of [ITN Rainbow](https://rainbow.ku.dk), a European training network. Throughout my PhD journey, I developed Bayesian and geometric deep learning frameworks aimed at creating scalable, accurate, and reliable computing models tailored for computational mechanics applications (refer [<span style="color:blue">Publications</span>](/publications)). My thesis was awarded the Excellent Thesis Award at the University of Luxembourg.
+
+<!-- I recently started a postdoctoral role with the Legato Team at the University of Luxembourg after completing my PhD there. I collaborate with Prof. [Prof. Stéphane Bordas](https://scholar.google.com/citations?user=QKZBZ48AAAAJ&hl=en). I am deeply interested in AI and its applications to scientific domains and more recently I have also been working on deep-learning techniques for medical imaging applications. I defended my PhD thesis titled 'Data Driven Surrogate Frameworks for Computational Mechanics: Bayesian and Geometric Deep Learning Approaches' under Stéphane's supervision in September 23. My PhD research was funded by the prestigious Marie Skłodawaska Curie Actions fellowship and it was a part of [ITN Rainbow](https://rainbow.ku.dk), an European training network. As a part of my Ph.D., I have developed Bayesian and geometric deep learning frameworks to come up with scalable, accurate and trustworthy computing models, for their applications in computational mechanics (refer [<span style="color:blue">Publications</span>](/publications)).
+
 I am a fourth-year Ph.D. student at the Team Legato of the University of Luxembourg,
 I am being supervised by [Prof. Stéphane Bordas](https://scholar.google.com/citations?user=QKZBZ48AAAAJ&hl=en).
 My thesis is a part of  Marie Skłodawaska Curie Actions funded European training network, [ITN Rainbow](https://rainbow.ku.dk).
-I am deeply interested in AI and its applications to diverse domains. As a part of my Ph.D., I am developing Bayesian and geometric deep learning frameworks to come up with scalable, accurate and trustworthy computing models, for their applications in computational mechanics (refer [<span style="color:blue">Publications</span>](/publications)). More recently I have also been working on deep-learning techniques for medical imaging applications. See [<span style="color:blue">this video</span>](https://youtu.be/sj8JUoGhit0) to get an informal introduction to one aspect of my PhD research :)
+I am deeply interested in AI and its applications to diverse domains. As a part of my Ph.D., I am developing Bayesian and geometric deep learning frameworks to come up with scalable, accurate and trustworthy computing models, for their applications in computational mechanics (refer [<span style="color:blue">Publications</span>](/publications)). More recently I have also been working on deep-learning techniques for medical imaging applications. See [<span style="color:blue">this video</span>](https://youtu.be/sj8JUoGhit0) to get an informal introduction to one aspect of my PhD research :) -->
 
 
-Before this, I spent two wonderful years as a Scientist/Engineer 'SC' at the Indian Space Research Organisation ([ISRO](https://www.isro.gov.in)).
+Prior to that, I spent two wonderful years as a Scientist/Engineer 'SC' at the Indian Space Research Organisation ([ISRO](https://www.isro.gov.in)).
 I graduated with an integrated bachelor's and master's degree in mechanical engineering (specialisation in product design)
-from [IIT Madras](https://www.iitm.ac.in) in 2017.
+from [IIT Madras](https://www.iitm.ac.in) in 2017. I have also spent a semester at the Technical University of Munich.
 
 \\
 *“The highest forms of understanding we can achieve are laughter and human compassion.” \
@@ -33,11 +39,12 @@ Visit [<span style="color:blue">hobbies</span>](/hobbies) page.
 
 Selected achievements:
 
+* Excellent Doctoral Thesis Award at the University of Luxembourg
 * [Marie Skłodowska Curie Actions fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks) for pursuing the doctorate degree <span style="color:gray">(2019-22)</span>
 * State Bank of India meritorious fellowship covering 95% of tuition fee at the IIT Madras <span style="color:gray">(2012-17)</span>
 * [KVPY fellowship](http://www.kvpy.iisc.ernet.in/main/about.htm) from the Government of India, offering full financial support to pursue a bachelor in pure sciences <span style="color:gray">(2012)</span>
 * [INSPIRE fellowship](https://online-inspire.gov.in) from the Government of India, offering full financial support to pursue a bachelor in pure sciences <span style="color:gray">(2012)</span>
-* Cleared Regional Maths Olympiad by securing region ranks 6 <span style="color:gray">(2009)</span> & 26 <span style="color:gray">(2011)</span> respectively.
+* Cleared Regional Maths Olympiad by securing region ranks 6 <span style="color:gray">(2009)</span> & 26 <span style="color:gray">(2011)</span> respectively
 * Travel awards from
    - [IWR Heidelberg](https://typo.iwr.uni-heidelberg.de/home) to attend computational mathematics summer school in Thailand <span style="color:gray">(2017)</span>
    - IIT Madras to present at the First National Finite Element developers conference <span style="color:gray">(2016)</span>
