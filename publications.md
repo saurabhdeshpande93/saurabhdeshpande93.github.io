@@ -18,9 +18,8 @@ You can alternatively find my publications on:
 
 ## Doctoral thesis
 
-* 'Data Driven Surrogate Frameworks for Computational Mechanics: Bayesian and Geometric Deep Learning Approaches'. <span style="color:gray">arXiv 2023</span>. \
-**Saurabh Deshpande**.\
-[<span style="color:blue">[PDF]</span>](https://hdl.handle.net/10993/57321) 
+* 'Data Driven Surrogate Frameworks for Computational Mechanics: Bayesian and Geometric Deep Learning Approaches'.\
+[<span style="color:blue">[PDF, Presentation, Slides]</span>](https://hdl.handle.net/10993/57321)
 
 
 ## Journal papers
