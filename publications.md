@@ -18,16 +18,16 @@ You can alternatively find my publications on:
 
 ## Doctoral thesis
 
-* 'Data Driven Surrogate Frameworks for Computational Mechanics: Bayesian and Geometric Deep Learning Approaches'.\
+* 'Data Driven Surrogate Frameworks for Computational Mechanics: Bayesian and Geometric Deep Learning Approaches'.<span style="color:gray"> Received the Excellent Thesis Award ([<span style="color:blue">see here</span>](https://www.uni.lu/fstm-en/news/excellent-doctoral-thesis-awards-2023-in-science/))</span>.\
 [<span style="color:blue">[PDF, Presentation, Slides]</span>](https://hdl.handle.net/10993/57321)
 
 
 ## Journal papers
 
 
-* 'MAgNET: A Graph U-Net Architecture for Mesh-Based Simulations'. <span style="color:gray">arXiv 2023</span>. \
+* 'MAgNET: A Graph U-Net Architecture for Mesh-Based Simulations'. <span style="color:gray">Engineering Applications of Artificial Intelligence (EAAI) 2024</span>. \
 **Saurabh Deshpande**, Stéphane P.A. Bordas and Jakub Lengiewicz.\
-[<span style="color:blue">[PDF]</span>](https://arxiv.org/pdf/2211.00713.pdf) [<span style="color:blue">[DOI]</span>](https://arxiv.org/abs/2211.00713)
+[<span style="color:blue">[PDF]</span>](https://pdf.sciencedirectassets.com/271095/1-s2.0-S0952197624X00044/1-s2.0-S0952197624002136/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBYaCXVzLWVhc3QtMSJGMEQCIBSKQ3C56N%2F14stC%2F6GqixlVo7NMt%2FCihwRnWdKOpS5wAiBZsyQnTKSdmogsrpD2XO1pH0AHS1yuGOKV4I9aku3QKSqyBQgvEAUaDDA1OTAwMzU0Njg2NSIM5cRHcVs51FqX5ihBKo8FTYPb%2FhJtHjdFnuSDhHOwPdy9BykXiaAku52UX5cLsCWP1ivD6JOTquc%2B1ojW%2BW18zapSytgBTKWmC48%2BUPoK5u1y3UtfVXOmiA7ry2VHGazWPKko2mOwc%2BvpurefAev%2FQkH9WsP3NwR1%2BLpq6ptN%2Fk3BsT95wCMNdGxfNjD1aM1ef8jeRwIWtpBEmgnBLYZLSzRyBXhQYsuFqcTQXNz2HJLa4jxZqkfNBxpnMPoRrQi9WXK43wahIOHf61akcHI%2Fo0al%2B8fku9h0CQsMHgGLKrghkb0fEyEv9x8nn%2BhKsWdR9qYFmWIfpdtjtxR2mABHKbw1M%2B0LHdNq%2BbXmKaJQLNd2%2FM4fEl7%2BYTnu7jHG0SsN32ipgRNLHn4LHVdFyg3%2BgdjhW7Sfw9CHRjNkogqwg4gcL7Qbyr7f9UIAbuDy8G5gauRcUC5CNReV30Je%2BgF9sc5z%2BrRXMSrP4pM1R5VDcuaReuqLw9BcVn%2BceDndP75uJkHLx3PeSXkDBPvFJ6bQ2LRTCsXZmBwxdCKnjiyuf7damU13KE0JddXJhdAc62D7AYUh4h3MqkP5K70mJ7iK%2FYVft8cjdrazAhXeF7UoH9iYV01x47fryrbTGbrSKNXs1e4Ksovok5NPAZmabBY9%2BgLNL6UIRAtHidkM0dgZeiY5vXm0OC86Inv3%2FGdrdVaatJNefl8OJ2R8VM2iR0mkblHENz3U6%2F1TytoKCFlylEbKIdhk63ymj6OCFRpTP1HSXAlX6AzXtUebBRbys6raCisF%2FI1xOP8lShpughi1KX5zmY1dzT6LANoh47po0YVz1tzJ5eSTktlRgPGGOIAkvNmlT4JohUdh6ei%2FkzxZSdgNRU89GiWZG08JAR9SDDC67fCvBjqyAdoKfzzaD3MljZox8ZM8tu%2BCbBNhyb3ev7%2FmDLGTLjR%2BQCboJkdAiqIhLkV9I4N0h6XPjggEP0RHMabg3ohuX0OBFvfYmXerpIdh0zzmzRmwl%2BwqxHmrpTYne6nL4HadH31MCpgQKIB6%2BRimbpOfy%2FaUujCAN77WQAYHJ21Kt1RCkROXXmmdIJmuZdQ8kFWkIQQO1%2FrSlFi%2BxM7rgvKjwmMuAfUr6kv%2BrjjMmKSEi2P%2FWVI%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240321T134520Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYXKFD3CUC%2F20240321%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=5ab8907bf2527ca4a2befd51c3cfc681058605d345145c24bcb44aeec4952afa&hash=423efc8a8d7fb5a71696ff1f41c81cd29b5ba7c95984149975efe7db7ab3dc02&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0952197624002136&tid=spdf-76b56ed5-8cc5-4e58-a3c8-b34119bbcd38&sid=4e5e1a1a478dc94a552bbd530a93546f5110gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=16155851570b5853040c&rr=867e61bb792595b8&cc=lu) [<span style="color:blue">[DOI]</span>](https://doi.org/10.1016/j.engappai.2024.108055)
 [<span style="color:blue">[Code]</span>](https://github.com/saurabhdeshpande93/MAgNET)[<span style="color:blue">[Presentation]</span>](https://www.youtube.com/watch?v=T7GVEWVV56I)
 
 * 'Convolution, aggregation and attention based deep neural networks for accelerating simulations in mechanics'. <span style="color:gray">Frontiers in Materials 2023</span>. \
