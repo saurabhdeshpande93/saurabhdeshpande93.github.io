@@ -39,7 +39,7 @@ Visit [<span style="color:blue">hobbies</span>](/hobbies) page.
 
 Selected achievements:
 
-* Excellent Doctoral Thesis Award at the University of Luxembourg ([<span style="color:blue">see here</span>](https://www.uni.lu/fstm-en/news/excellent-doctoral-thesis-awards-2023-in-science/))<span style="color:gray">(2023)</span>
+* Excellent Doctoral Thesis Award at the University of Luxembourg ([<span style="color:blue">see here </span>](https://www.uni.lu/fstm-en/news/excellent-doctoral-thesis-awards-2023-in-science/))<span style="color:gray">(2023)</span>
 * [Marie Skłodowska Curie Actions fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks) for pursuing the doctorate degree <span style="color:gray">(2019-22)</span>
 * State Bank of India meritorious fellowship covering 95% of tuition fee at the IIT Madras <span style="color:gray">(2012-17)</span>
 * [KVPY fellowship](http://www.kvpy.iisc.ernet.in/main/about.htm) from the Government of India, offering full financial support to pursue a bachelor in pure sciences <span style="color:gray">(2012)</span>
