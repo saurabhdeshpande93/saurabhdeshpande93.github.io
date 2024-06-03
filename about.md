@@ -6,7 +6,7 @@ hide_description: true
 
 # About
 
-I recently began working as a postdoctoral researcher in the Legato Team at the University of Luxembourg after finishing my PhD at the same lab. Collaborating closely with [Prof. Stéphane Bordas](https://scholar.google.com/citations?user=QKZBZ48AAAAJ&hl=en), my research focuses on development of novel AI techniques and their profound implications across scientific domains. More recently, I've delved into deep-learning techniques for medical imaging applications.
+Currently I am a postdoctoral researcher in the Legato Team at the University of Luxembourg after finishing my PhD at the same lab. Collaborating closely with [Prof. Stéphane Bordas](https://scholar.google.com/citations?user=QKZBZ48AAAAJ&hl=en), my research focuses on development of novel AI techniques for applications in scientific simulations and computer vision challenges.
 
 My PhD thesis, titled 'Data Driven Surrogate Frameworks for Computational Mechanics: Bayesian and Geometric Deep Learning Approaches', was completed under Stéphane’s guidance and defended in September 23. This research was supported by the prestigious Marie Skłodawaska Curie Actions fellowship and was part of the [ITN Rainbow](https://rainbow.ku.dk), a European training network. During my PhD, I worked on developing Bayesian and geometric deep learning models to create reliable computing models for computational mechanics applications (refer [<span style="color:blue">Publications</span>](/publications)). My thesis received the Excellent Thesis Award at the University of Luxembourg.
 
@@ -39,7 +39,7 @@ Visit [<span style="color:blue">hobbies</span>](/hobbies) page.
 
 Selected achievements:
 
-* Excellent Doctoral Thesis Award at the University of Luxembourg
+* Excellent Doctoral Thesis Award at the University of Luxembourg ([<span style="color:blue">see here</span>](https://www.uni.lu/fstm-en/news/excellent-doctoral-thesis-awards-2023-in-science/))<span style="color:gray">(2023)</span>
 * [Marie Skłodowska Curie Actions fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks) for pursuing the doctorate degree <span style="color:gray">(2019-22)</span>
 * State Bank of India meritorious fellowship covering 95% of tuition fee at the IIT Madras <span style="color:gray">(2012-17)</span>
 * [KVPY fellowship](http://www.kvpy.iisc.ernet.in/main/about.htm) from the Government of India, offering full financial support to pursue a bachelor in pure sciences <span style="color:gray">(2012)</span>

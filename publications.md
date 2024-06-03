@@ -24,6 +24,10 @@ You can alternatively find my publications on:
 
 ## Journal papers
 
+* 'Gaussian process regression + deep neural network autoencoder for probabilistic surrogate modeling in nonlinear mechanics of solids'. <span style="color:gray">ORBilu 2024</span>. \
+**Saurabh Deshpande**, Hussein Rappel, Mark Hobbs, Stéphane P.A. Bordas and Jakub Lengiewicz. \
+[<span style="color:blue">[PDF]</span>](https://orbilu.uni.lu/bitstream/10993/61242/1/Autoencoder_GP_paper.pdf) [<span style="color:blue">[DOI]</span>](https://hdl.handle.net/10993/61242) [<span style="color:blue">
+
 
 * 'MAgNET: A Graph U-Net Architecture for Mesh-Based Simulations'. <span style="color:gray">Engineering Applications of Artificial Intelligence (EAAI) 2024</span>. \
 **Saurabh Deshpande**, Stéphane P.A. Bordas and Jakub Lengiewicz.\
