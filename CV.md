@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Curriculum Vitae
-Updated in January 2023.
+Updated in January 2025.
 
 One page resume: [<span style="color:blue">PDF</span>](/assets/work/Resume_Saurabh_Deshpande.pdf) \\
 Detailed CV:     [<span style="color:blue">PDF</span>](/assets/work/CV_Saurabh_Deshpande.pdf)
