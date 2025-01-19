@@ -19,7 +19,7 @@ You can alternatively find my publications on:
 ## Doctoral thesis
 
 * 'Data Driven Surrogate Frameworks for Computational Mechanics: Bayesian and Geometric Deep Learning Approaches'.<span style="color:gray"> Received the Excellent Thesis Award ([<span style="color:blue">see here</span>](https://www.uni.lu/fstm-en/news/excellent-doctoral-thesis-awards-2023-in-science/))</span>.\
-[<span style="color:blue">[PDF, Presentation, Slides]</span>](https://hdl.handle.net/10993/57321)
+[<span style="color:blue">[PDF, Presentation, Slides]</span>](https://hdl.handle.net/10993/57321) [<span style="color:blue">[Code]</span>](https://github.com/saurabhdeshpande93/gp-auto-regression)
 
 
 ## Journal papers
