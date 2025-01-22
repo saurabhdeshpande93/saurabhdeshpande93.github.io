@@ -19,12 +19,12 @@ You can alternatively find my publications on:
 ## Doctoral thesis
 
 * 'Data Driven Surrogate Frameworks for Computational Mechanics: Bayesian and Geometric Deep Learning Approaches'.<span style="color:gray"> Received the Excellent Thesis Award ([<span style="color:blue">see here</span>](https://www.uni.lu/fstm-en/news/excellent-doctoral-thesis-awards-2023-in-science/))</span>.\
-[<span style="color:blue">[PDF, Presentation, Slides]</span>](https://hdl.handle.net/10993/57321) 
+[<span style="color:blue">[PDF, Presentation, Slides]</span>](https://hdl.handle.net/10993/57321)
 
 
 ## Journal papers
 
-* 'Gaussian process regression + deep neural network autoencoder for probabilistic surrogate modeling in nonlinear mechanics of solids'. <span style="color:gray"> ArXiv 2024</span>. \
+* 'Gaussian process regression + deep neural network autoencoder for probabilistic surrogate modeling in nonlinear mechanics of solids'. <span style="color:gray"> Computer Methods in Applied Mechanics and Engineering (CMAME) 2025</span>. \
 **Saurabh Deshpande**, Hussein Rappel, Mark Hobbs, Stéphane P.A. Bordas and Jakub Lengiewicz. \
 [<span style="color:blue">[PDF]</span>](https://arxiv.org/pdf/2407.10732) [<span style="color:blue">[DOI]</span>](https://arxiv.org/abs/2407.10732) [<span style="color:blue">[Code]</span>](https://github.com/saurabhdeshpande93/gp-auto-regression)
 
