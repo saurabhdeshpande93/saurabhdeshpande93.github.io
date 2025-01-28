@@ -18,9 +18,9 @@ Discover my favorite hobbies below (page layout is optimized for desktop view).
 
 ## <a name="sports"></a>Sports
 
-<div style="float: right;  margin: 5px 0px 0px 28px; margin-right: -50px; margin-bottom: -120px ">
+<!-- <div style="float: right;  margin: 5px 0px 0px 28px; margin-right: -50px; margin-bottom: -120px ">
   <iframe align=right height='600' width='280' frameborder='0' allowtransparency='true' scrolling='yes' src='https://www.strava.com/athletes/46282855/latest-rides/6e1cf9e06eacabbd06eb414efb00ebf9675e4cba'></iframe>
-</div>
+</div> -->
 
 Sports has always held a special place in my heart, it has helped me make great friends. During my formative years, cricket was my first love (as it is for most Indians). As I grew older, I discovered new games like badminton and chess, playing friendly matches with my neighbor uncle. It was in high school that I developed a great interest in table tennis, representing my district in state-level tournaments and later also representing my alma mater, IIT Madras, at intercollege sports festivals. At IIT Madras I fell in everlasting love with squash, I also loved playing water polo and football. I still get goosebumps when I think back to those tense Schroeter moments (inter-hostel sports competition, which my hostel won in 2016, where I was a captain of the TT and Squash team. Go Godav!).     
 
