@@ -45,11 +45,11 @@ You can alternatively find my publications on:
 
 
 ## Conferences
-* 'Graph Representation Learning Strategies for Omics Data: A Case Study on Parkinson’s Disease.' <span style="color:gray"> arXiv, 2024 </span>. \
+* 'Graph Representation Learning Strategies for Omics Data: A Case Study on Parkinson’s Disease.' <span style="color:gray"> arXiv, 2024</span>.\
 Elisa Gómez de Lope, **Saurabh Deshpande**, RV Torné, Pietro Liò, Enrico Glaab, Stéphane Bordas \
 [<span style="color:blue">[PDF]</span>](https://arxiv.org/pdf/2406.14442)[<span style="color:blue">[DOI]</span>](https://arxiv.org/abs/2406.14442)
 
-* 'Novel Geometric Deep Learning Surrogate Framework for Non-Linear Finite Element Simulations'. <span style="color:gray"> 14th International Conference of Computational Methods (ICCM), 2023 </span>. \
+* 'Novel Geometric Deep Learning Surrogate Framework for Non-Linear Finite Element Simulations'. <span style="color:gray"> 14th International Conference of Computational Methods (ICCM), 2023</span>. \
 **Saurabh Deshpande**, Raúl I. Sosa, Stéphane P.A. Bordas and Jakub Lengiewicz.\
 [<span style="color:blue">[PDF]</span>](https://orbilu.uni.lu/bitstream/10993/55478/1/Abstract_ICCM.pdf)
 
